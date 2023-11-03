@@ -35,10 +35,10 @@ The next project I worked on was Eagle - an app for finding fun stops along the 
 - Web design
 - Google AdMob
 
-## SearchX 2021 - 2022
+## SearchX: 2021 - 2022
 <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/a3a5bfe1-2211-47c7-9f21-e9dba1d1ac04" width="200">
 
-Some time had passed since I worked on GeoCash and I thought it deserved a second chance. I had gained new skills and felt that I could apply my new knowledge to make it better. The biggest of these new skills that I learned was Flutter so now I could develop the app for iOS and actually get it to everyone. I renamed GeoCash became SearchX and had a fresh new design. The confusing monetary elements were gone and the UI was cleaned up a little. It was now a pure scavenger hunt game with a freemium subscription model to generate revenue. These changes were in the right direction. That being said, it was missing one thing: it was just a novelty and users didn't really get anything useful from it. This issue was the biggest driving factor in my next project.
+Some time had passed since I worked on GeoCash and I thought it deserved a second chance. I had gained new skills and felt that I could apply my new knowledge to make it better. The biggest of these new skills that I learned was Flutter so now I could develop the app for iOS and actually get it to everyone. GeoCash became SearchX and had a fresh new design. The confusing monetary elements were gone and the UI was cleaned up a little. It was now a pure scavenger hunt game with a freemium subscription model to generate revenue. These changes were in the right direction. That being said, it was missing one thing: it was just a novelty and users didn't really get anything useful from it. This issue was the biggest driving factor in my next project.
 
 ### Skills used
 - Flutter
@@ -54,3 +54,25 @@ Some time had passed since I worked on GeoCash and I thought it deserved a secon
 - Apple In App Purchases
 - Graphic design
 - Social media marketing
+- Web design
+
+## Coatails: 2022 - Present
+<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/1c9686f3-9f59-403e-804d-be29a751a1d5" width="200">
+
+Coatails is my current project that I work on and its the most sophisticated thing I've done to date. It's an app dedicated to making professional networking more than just a simple friend request online. To connect with someone, users have to meet their new connection in real life first and scan a QR code to connect(think Snapchat or Venmo). This is done because connecting in real life offers the chance for a conversation so users can really get to know their new contact and form a much better professional connection than they ever could online. Networks on Coatails are quality over quantity. The app also offers users a visual map to show who their connections know to facilitate career growth. Overall, Coatails is like if your contacts app was upgraded in just about every way. Users get a quicker exchange of information, more details on people, and a fantastic way to seek out new connections.
+
+### Skills used
+- Flutter
+- Native Android Development
+- Native iOS Development
+- Firebase
+- Google Cloud Platform
+- UI/UX design
+- Graphic Design
+- Social media marketing
+- Web design
+- Jobs to be done framework
+- Lean startup principles
+- Product design
+- SendGrid
+- Node.js
