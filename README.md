@@ -4,7 +4,7 @@ Hello! My name is Evan and I am currently an undergraduate student at Texas A&M 
 I have been very fortunate to learn from some of the best computer scientists and some of the best business leaders in the world through first hand experiences. The past couple of years have been a time where I have grown immensly in my career and I'm excited to say that I am just getting started. I can't wait to see where I go next; the future is exciting!
 
 # Major Projects
-These are the major personal projects I have worked on over the past few years in chronological order. If you are a recruiter and want to see the actual code for them, the repositories are available upon request.
+These are the major personal projects I have worked on over the past few years in chronological order along with my thoughts on them. If you are a recruiter and want to see the actual code for them, the repositories are available upon request.
 
 ## GeoCash: 2018 - 2020
 <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/8fbd0a3a-ba2c-4c62-8874-26f4a958aa08" width="200">
@@ -18,7 +18,7 @@ This was very much a humble beginning. The idea for GeoCash was to be a mobile g
 - Google Maps SDK
 
 ## Eagle: 2020 - 2021
-<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/e62d87a6-90c4-49b3-8974-9a684c794e0d)https://github.com/evanwherchek/professional-overview/assets/50429973/e62d87a6-90c4-49b3-8974-9a684c794e0d" width="200">
+<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/e62d87a6-90c4-49b3-8974-9a684c794e0d" width="200">
 
 The next project I worked on was Eagle - an app for finding fun stops along the way on road trips. I grew up taking a lot of road trips with my family and really enjoyed them; that was the inspiration for this app. Users would enter in some keywords to describe what they were interested in and a backend service I created would calculate a search area along the route and find some interesting stops that fit that search criteria. Users could then add and remove points of interest to effectively plan their journey. There was also the option for users to share the trips they planned on social media to grow the user base. This one had more charm and it's something that may be fun to revisit in the future if I can come up with a good business model for it.
 
@@ -26,6 +26,31 @@ The next project I worked on was Eagle - an app for finding fun stops along the 
 - Native Android Development
 - Firebase
 - Google Cloud Platform
-- UI/UX Design
+- UI/UX design
 - Snapchat SDK
 - Google Maps SDK
+- HTML
+- CSS
+- Javascript
+- Web design
+- Google AdMob
+
+## SearchX 2021 - 2022
+<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/a3a5bfe1-2211-47c7-9f21-e9dba1d1ac04" width="200">
+
+Some time had passed since I worked on GeoCash and I thought it deserved a second chance. I had gained new skills and felt that I could apply my new knowledge to make it better. The biggest of these new skills that I learned was Flutter so now I could develop the app for iOS and actually get it to everyone. I renamed GeoCash became SearchX and had a fresh new design. The confusing monetary elements were gone and the UI was cleaned up a little. It was now a pure scavenger hunt game with a freemium subscription model to generate revenue. These changes were in the right direction. That being said, it was missing one thing: it was just a novelty and users didn't really get anything useful from it. This issue was the biggest driving factor in my next project.
+
+### Skills used
+- Flutter
+- Native Android Development
+- Native iOS Development
+- Firebase
+- Google Cloud Platform
+- UI/UX design
+- Java Spring
+- Google Maps SDK
+- Stripe API
+- Google Play Billing
+- Apple In App Purchases
+- Graphic design
+- Social media marketing
