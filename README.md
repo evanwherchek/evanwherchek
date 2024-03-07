@@ -14,7 +14,7 @@ These are the major personal projects I have worked on over the past few years i
 This was very much a humble beginning. The idea for GeoCash was to be a mobile game similar to actual Geocaching but where people would earn money for following hints to a real-world location. Think of it as a scavenger hunt for money. I was proud of it at the time but now that I'm looking back, I can see that I did just about everything wrong. The UI design was horrible, my code was terribly engineered, and most of all, the product couldn't be distributed anywhere. I only knew native Android development and it wouldn't even be approved by the Google Play store because the business model was considered gambling. I had to settle for putting it on third-party APK websites where I seriously thought it could grow that way.
 
 ### Skills used
-- [Native Android Development](https://developer.android.com/)
+- [Android Development](https://developer.android.com/)
 - [AWS](https://aws.amazon.com/)
 - [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Google Maps SDK](https://developers.google.com/maps)
@@ -27,17 +27,17 @@ This was very much a humble beginning. The idea for GeoCash was to be a mobile g
 The next project I worked on was Eagle - an app for finding fun stops along the way on road trips. I grew up taking a lot of road trips with my family and really enjoyed them; that was the inspiration for this app. Users would enter in some keywords to describe what they were interested in and a backend service I created would calculate a search area along the route and find some interesting stops that fit that search criteria. Users could then add and remove points of interest to effectively plan their journey. There was also the option for users to share the trips they planned on social media to grow the user base. This one had more charm and it's something that may be fun to revisit in the future if I can come up with a good business model for it.
 
 ### Skills used
-- Native Android Development
-- Firebase
-- Google Cloud Platform
+- [Android Development](https://developer.android.com/)
+- [Firebase](https://firebase.google.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
 - UI/UX design
-- Snapchat SDK
-- Google Maps SDK
-- HTML
-- CSS
-- Javascript
+- [Snapchat SDK](https://developers.snap.com/)
+- [Google Maps SDK](https://developers.google.com/maps)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 - Web design
-- Google AdMob
+- [Google AdMob](https://developers.google.com/admob)
 
 ## SearchX: 2021 - 2022
 <div align="center">
