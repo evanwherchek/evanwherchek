@@ -70,20 +70,20 @@ Some time had passed since I worked on GeoCash and I thought it deserved a secon
 Coatails is my current project that I work on and it's the most sophisticated thing I've done to date. It's an app dedicated to making professional networking more than just simple friend requests online. To connect with someone, users have to meet their new connection in real life first and scan a QR code to connect(think Snapchat or Venmo). This is done because connecting in real life offers the chance for a conversation so users can really get to know their new contact and form a much better professional connection than they ever could online. Networks on Coatails are quality over quantity. The app also offers users a visual map to show who their connections know to facilitate career growth. Overall, Coatails is like if your contacts app was upgraded in just about every way. Users get a quicker exchange of information, more details on people, and a fantastic way to seek out new connections.
 
 ### Skills used
-- Flutter
-- Native Android Development
-- Native iOS Development
-- Firebase
-- Google Cloud Platform
+- [Flutter](https://flutter.dev/)
+- [Android Development](https://developer.android.com/)
+- [iOS Development](https://developer.apple.com/ios/)
+- [Firebase](https://firebase.google.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
 - UI/UX design
 - Graphic Design
 - Social media marketing
 - Web design
-- Jobs to be done framework
-- Lean startup principles
+- [Jobs to be done framework](https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90)
+- [Lean startup principles](https://theleanstartup.com/principles)
 - Product design
-- SendGrid
-- Node.js
-- Figma
-- Notion
+- [SendGrid](https://sendgrid.com/en-us)
+- [Node.js](https://nodejs.org/en)
+- [Figma](https://www.figma.com/)
+- [Notion](https://www.notion.so/)
 - Accessibility
