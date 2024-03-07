@@ -5,7 +5,16 @@ My name is Evan and I am currently an undergraduate student at Texas A&M Univers
 
 I have been very fortunate to learn from some of the best computer scientists and some of the best business leaders in the world through first-hand experiences. The past couple of years have been a time where I have grown immensely in my career and I'm excited to say that I am just getting started. I can't wait to see where I go next; the future is exciting!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanwherchek)](https://github.com/anuraghazra/github-readme-stats)
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
 
 # Major Projects
 These are the major personal projects I have worked on over the past few years in chronological order along with my thoughts on them. If you are a recruiter and want to see the actual code for them, the repositories are available upon request.
