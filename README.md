@@ -47,17 +47,17 @@ The next project I worked on was Eagle - an app for finding fun stops along the 
 Some time had passed since I worked on GeoCash and I thought it deserved a second chance. I had gained new skills and felt that I could apply my new knowledge to make it better. The biggest of these new skills that I learned was Flutter so now I could develop the app for iOS and actually get it to everyone. GeoCash became SearchX and had a fresh new design. The confusing monetary elements were gone and the UI was cleaned up a little. It was now a pure scavenger hunt game with a freemium subscription model to generate revenue. These changes were in the right direction. That being said, it was missing one thing: it was just a novelty and users didn't really get anything useful from it. This issue was the biggest driving factor in my next project.
 
 ### Skills used
-- Flutter
-- Native Android Development
-- Native iOS Development
-- Firebase
-- Google Cloud Platform
+- [Flutter](https://flutter.dev/)
+- [Android Development](https://developer.android.com/)
+- [iOS Development](https://developer.apple.com/ios/)
+- [Firebase](https://firebase.google.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
 - UI/UX design
-- Java Spring
-- Google Maps SDK
-- Stripe API
-- Google Play Billing
-- Apple In App Purchases
+- [Java Spring](https://spring.io/)
+- [Google Maps SDK](https://developers.google.com/maps)
+- [Stripe API](https://docs.stripe.com/api)
+- [Google Play Billing](https://developer.android.com/google/play/billing)
+- [Apple In App Purchases](https://developer.apple.com/in-app-purchase/)
 - Graphic design
 - Social media marketing
 - Web design
