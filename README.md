@@ -1,4 +1,7 @@
-# Professional Overview
+<div align="center">
+<img src="https://github.com/evanwherchek/evanwherchek/assets/50429973/f291150f-5b19-4660-82b0-dfbbda4c63bd" width="750">
+</div>
+
 Hello!
 
 My name is Evan and I am currently an undergraduate student at Texas A&M University studying for my Bachelor of Arts in Computing with a Concentration in Software Entrepreneurship. At the core of my studies is everything you would expect to find for a university-level computer science program. This is then complemented by my concentration area where I have taken many electives on business leadership, enterprise fundamentals, and product design. My education is specially tailored to fit a wide variety of industry environments from small startups to the large corporate world.
