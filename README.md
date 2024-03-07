@@ -5,6 +5,8 @@ My name is Evan and I am currently an undergraduate student at Texas A&M Univers
 
 I have been very fortunate to learn from some of the best computer scientists and some of the best business leaders in the world through first-hand experiences. The past couple of years have been a time where I have grown immensely in my career and I'm excited to say that I am just getting started. I can't wait to see where I go next; the future is exciting!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanwherchek)](https://github.com/anuraghazra/github-readme-stats)
+
 # Major Projects
 These are the major personal projects I have worked on over the past few years in chronological order along with my thoughts on them. If you are a recruiter and want to see the actual code for them, the repositories are available upon request.
 
