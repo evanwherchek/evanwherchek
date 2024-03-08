@@ -10,7 +10,7 @@ I have been lucky enough to delve into a diverse range of subjects, from the int
 
 What truly fuels my passion for software engineering is the endless opportunity for innovation it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
 
-I'm grateful for the opportunity to learn from some of the world's leading computer scientists and business leaders. These experiences have immensely enriched my career growth over the past few years. And the most exciting part? I'm just getting started. I eagerly look forward to exploring new frontiers in software engineering and making my own contributions to this ever-evolving field. The future is indeed exciting!
+I'm grateful for the opportunity to learn from some of the world's leading computer scientists and business leaders. These experiences have immensely enriched my career growth over the past few years. And the most exciting part? I'm just getting started. I eagerly look forward to exploring new frontiers in software engineering and making my own contributions to this ever-evolving field. The future is exciting!
 
 ### Languages
 
