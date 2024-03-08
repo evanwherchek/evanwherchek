@@ -41,7 +41,7 @@ I have been very fortunate to learn from some of the best computer scientists an
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android-Studio&logoColor=3DDC84)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira&logoColor=0052CC)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)
-![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=000000)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=FFFFFF)
 
 # Major Projects
 These are the major personal projects I have worked on over the past few years in chronological order along with my thoughts on them. If you are a recruiter and want to see the actual code for them, the repositories are available upon request.
