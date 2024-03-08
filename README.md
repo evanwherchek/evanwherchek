@@ -22,7 +22,7 @@ I'm grateful for the opportunity to learn from some of the world's leading compu
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
-![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-000?&logo=x86&logoColor=007ACC)
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=Assembly&logoColor=6E4C13)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 
