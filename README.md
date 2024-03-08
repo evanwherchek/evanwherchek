@@ -4,9 +4,13 @@
 
 Hello!
 
-My name is Evan and I am currently an undergraduate student at Texas A&M University studying for my Bachelor of Arts in Computing with a Concentration in Software Entrepreneurship. At the core of my studies is everything you would expect to find for a university-level computer science program. This is then complemented by my concentration area where I have taken many electives on business leadership, enterprise fundamentals, and product design. My education is specially tailored to fit a wide variety of industry environments from small startups to the large corporate world.
+My name is Evan and I'm an undergraduate student at Texas A&M University. I'm currently pursuing a Bachelor of Arts in Computing with a focus on Software Entrepreneurship. My academic journey is deeply rooted in a profound love for software engineering, which forms the backbone of my computer science program.
 
-I have been very fortunate to learn from some of the best computer scientists and some of the best business leaders in the world through first-hand experiences. The past couple of years have been a time where I have grown immensely in my career and I'm excited to say that I am just getting started. I can't wait to see where I go next; the future is exciting!
+I have been lucky enough to delve into a diverse range of subjects, from the intricacies of coding to the nuances of business leadership, enterprise fundamentals, and product design. This unique blend of studies is designed to equip me with the skills required to thrive in various industry environments, from dynamic startups to large corporate settings.
+
+What truly fuels my passion for software engineering is the endless opportunity for innovation it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
+
+I'm grateful for the opportunity to learn from some of the world's leading computer scientists and business leaders. These experiences have immensely enriched my career growth over the past few years. And the most exciting part? I'm just getting started. I eagerly look forward to exploring new frontiers in software engineering and making my own contributions to this ever-evolving field. The future is indeed exciting!
 
 ### Languages
 
@@ -17,7 +21,6 @@ I have been very fortunate to learn from some of the best computer scientists an
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-000?&logo=x86&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
