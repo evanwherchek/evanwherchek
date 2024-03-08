@@ -10,20 +10,38 @@ I have been very fortunate to learn from some of the best computer scientists an
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=JavaScript)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp)
+![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
+![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-000?&logo=x86&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 
 ### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=0089D6)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
+![Stripe API](https://img.shields.io/badge/-Stripe%20API-000?&logo=Stripe&logoColor=008CDD)
+![Java Spring](https://img.shields.io/badge/-JavaSpring-000?&logo=Spring&logoColor=6DB33F)
+
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android-Studio&logoColor=3DDC84)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira&logoColor=0052CC)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=000000)
 
 # Major Projects
 These are the major personal projects I have worked on over the past few years in chronological order along with my thoughts on them. If you are a recruiter and want to see the actual code for them, the repositories are available upon request.
