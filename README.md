@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://github.com/evanwherchek/evanwherchek/assets/50429973/e2f2f8bc-2509-4378-ae44-d9fff1122987" width="750">
+<img src="https://github.com/evanwherchek/evanwherchek/assets/50429973/e2f2f8bc-2509-4378-ae44-d9fff1122987" width="85%">
 </div>
 
 Hello!
 
-My name is Evan and I'm an undergraduate student at Texas A&M University. I'm currently pursuing a Bachelor of Arts in Computing with a focus on Software Entrepreneurship. My academic journey is deeply rooted in a profound love for software engineering, which forms the backbone of my computer science program.
+My name is Evan and I'm an undergraduate student at Texas A&M University. I'm currently pursuing a Bachelor of Arts in Computing with a focus on Technology Entrepreneurship. My academic journey is deeply rooted in a profound love for software engineering, which forms the backbone of my computer science program.
 
 I have been lucky enough to delve into a diverse range of subjects, from the intricacies of coding to the nuances of business leadership, enterprise fundamentals, and product design. This unique blend of studies is designed to equip me with the skills required to thrive in various industry environments, from dynamic startups to large corporate settings.
 
