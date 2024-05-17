@@ -4,13 +4,13 @@
 
 Hello!
 
-My name is Evan and I'm an undergraduate student at Texas A&M University. I'm currently pursuing a Bachelor of Arts in Computing with a focus on Technology Entrepreneurship. My academic journey is deeply rooted in a profound love for software engineering, which forms the backbone of my computer science program.
+My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Software Entrepreneurship. My academic journey is deeply rooted in a profound love for software engineering, which forms the backbone of my computer science program.
 
 I have been lucky enough to delve into a diverse range of subjects, from the intricacies of coding to the nuances of business leadership, enterprise fundamentals, and product design. This unique blend of studies is designed to equip me with the skills required to thrive in various industry environments, from dynamic startups to large corporate settings.
 
 What truly fuels my passion for software engineering is the endless opportunity for innovation it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
 
-I'm grateful for the opportunity to learn from some of the best computer scientists and business leaders. These experiences have immensely enriched my career growth over the past few years. And the most exciting part? I'm just getting started. I eagerly look forward to exploring new frontiers in software engineering and making my own contributions to this ever-evolving field. The future is exciting!
+I'm grateful for the opportunity to learn from some of the best computer scientists and business leaders. These experiences have immensely enriched my career growth over the past few years. And  I'm just getting started. I eagerly look forward to exploring new frontiers in software engineering and making my own contributions. The future is exciting!
 
 ### Languages
 
