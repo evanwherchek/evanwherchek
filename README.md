@@ -14,17 +14,20 @@ I'm grateful for the opportunity to learn from some of the best computer scienti
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=JavaScript)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=239120)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
-![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=Assembly&logoColor=6E4C13)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00ADD8)
+![x86](https://img.shields.io/badge/-x86-000?&logo=intel&logoColor=0071C5)
+![arm](https://img.shields.io/badge/-arm-000?&logo=arm&logoColor=00979D)
 
 ### Technologies
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -36,8 +39,12 @@ I'm grateful for the opportunity to learn from some of the best computer scienti
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css&logoColor=38B2AC)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react&logoColor=61DAFB)
 ![Stripe API](https://img.shields.io/badge/-Stripe%20API-000?&logo=Stripe&logoColor=008CDD)
 ![Java Spring](https://img.shields.io/badge/-JavaSpring-000?&logo=Spring&logoColor=6DB33F)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.net&logoColor=512BD4)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
