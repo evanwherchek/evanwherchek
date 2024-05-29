@@ -49,6 +49,8 @@ I could not be more excited to begin my career and I'm very entheusiastic to bui
 ![Stripe API](https://img.shields.io/badge/-Stripe%20API-000?&logo=Stripe&logoColor=008CDD)
 ![Java Spring](https://img.shields.io/badge/-JavaSpring-000?&logo=Spring&logoColor=6DB33F)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.net&logoColor=512BD4)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
+![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=Postgresql&logoColor=336791)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
