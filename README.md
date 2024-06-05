@@ -143,3 +143,21 @@ Coatails is my current project that I work on and it's the most sophisticated th
 - [Figma](https://www.figma.com/)
 - [Notion](https://www.notion.so/)
 - Accessibility
+
+## RecipeRocal: 2024
+<div align="center">
+<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/f07a67f5-0393-4981-83bf-3b8577858dec" width="200">
+</div>
+
+In the spring of 2024, my time as a student at Texas A&M was coming to an end. Because I was on my last semester, it was time to work on my senior capstone project. With my team of four other students, we created RecipeRocal - an app that makes good nutrition easier through gamification. Users of the app can set daily goals based on factors such as their weight, height, and level of physical activity. These inputs then calculate to a set of daily macronutrients that the users can reach for by logging their meals throughout the day. At the end of each day, a backend script runs to determine if the user hit their goal for the day and to send them a notification about it. There was also the feature of leveling up over time based on experience points.
+
+The semester I spent working on RecipeRocal has been an incredible learning experience for what software engineering is like in industry. I served as my team's CI/CD lead to develop many different automations that kept the team working efficiently. It was here where I learned about the value of linting, unit testing, automated workflows, and many other DevOps practices.
+
+### Skills used
+- [React Native](https://reactnative.dev/)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [Android Development](https://developer.android.com/)
+- [Firebase](https://firebase.google.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [GitHub Actions](https://docs.github.com/en/actions)
+- [Jira](https://www.atlassian.com/software/jira)
