@@ -82,18 +82,20 @@ This was very much a humble beginning. The idea for GeoCash was to be a mobile g
 
 The next project I worked on was Eagle - an app for finding fun stops along the way on road trips. I grew up taking a lot of road trips with my family and really enjoyed them; that was the inspiration for this app. Users would enter in some keywords to describe what they were interested in and a backend service I created would calculate a search area along the route and find some interesting stops that fit that search criteria. Users could then add and remove points of interest to effectively plan their journey. There was also the option for users to share the trips they planned on social media to grow the user base. This one had more charm and, knowing everything I know now, it's something that may be fun to revisit in the future!
 
-### Skills used
+### Hard skills used
 - [Android Development](https://developer.android.com/)
 - [Firebase](https://firebase.google.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
-- UI/UX design
 - [Snapchat SDK](https://developers.snap.com/)
 - [Google Maps SDK](https://developers.google.com/maps)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [Javascript](https://en.wikipedia.org/wiki/JavaScript)
-- Web design
 - [Google AdMob](https://developers.google.com/admob)
+
+### Soft skills used
+- Web design
+- UI/UX design
 
 ## SearchX: 2021 - 2022
 <div align="center">
@@ -102,21 +104,23 @@ The next project I worked on was Eagle - an app for finding fun stops along the 
 
 Some time had passed since I worked on GeoCash and I thought it deserved a second chance. I had gained new skills and felt that I could apply my new knowledge to make it better. The biggest of these new skills that I learned was Flutter so now I could develop the app for iOS and actually get it to everyone. GeoCash became SearchX and had a fresh new design. The confusing monetary elements were gone and the UI was cleaned up a little. It was now a pure scavenger hunt game with a freemium subscription model to generate revenue. These changes were in the right direction. That being said, it was missing one thing: it was just a novelty and users didn't really get much value from it. This issue was the biggest driving factor in my next project.
 
-### Skills used
+### Hard skills used
 - [Flutter](https://flutter.dev/)
 - [Android Development](https://developer.android.com/)
 - [iOS Development](https://developer.apple.com/ios/)
 - [Firebase](https://firebase.google.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
-- UI/UX design
 - [Java Spring](https://spring.io/)
 - [Google Maps SDK](https://developers.google.com/maps)
 - [Stripe API](https://docs.stripe.com/api)
 - [Google Play Billing](https://developer.android.com/google/play/billing)
 - [Apple In App Purchases](https://developer.apple.com/in-app-purchase/)
+
+### Soft skills used
 - Graphic design
 - Social media marketing
 - Web design
+- UI/UX design
 
 ## Coatails: 2022 - Present
 <div align="center">
@@ -125,24 +129,26 @@ Some time had passed since I worked on GeoCash and I thought it deserved a secon
 
 Coatails is my current project that I work on and it's the most sophisticated thing I've done to date. It's an app dedicated to making professional networking more than just simple friend requests online. To connect with someone, users have to meet their new connection in real life first and scan a QR code to connect(think Snapchat or Venmo). This is done because connecting in real life offers the chance for a conversation so users can really get to know their new contact and form a much better professional connection than they ever could online. Networks on Coatails are quality over quantity. The app also offers users a visual map to show who their connections know to facilitate career growth. Overall, Coatails is like if your contacts app was upgraded in every way. Users get a quicker exchange of information, more details on people, and a fantastic way to seek out new connections.
 
-### Skills used
+### Hard skills used
 - [Flutter](https://flutter.dev/)
 - [Android Development](https://developer.android.com/)
 - [iOS Development](https://developer.apple.com/ios/)
 - [Firebase](https://firebase.google.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
-- UI/UX design
-- Graphic Design
-- Social media marketing
-- Web design
-- [Jobs to be done framework](https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90)
-- [Lean startup principles](https://theleanstartup.com/principles)
-- Product design
 - [SendGrid](https://sendgrid.com/en-us)
 - [Node.js](https://nodejs.org/en)
 - [Figma](https://www.figma.com/)
 - [Notion](https://www.notion.so/)
+
+### Soft skills used
 - Accessibility
+- Product design
+- UI/UX design
+- Graphic Design
+- Social media marketing
+- Web design
+- Lean startup principles
+- Jobs to be done framework
 
 ## RecipeRocal: 2024
 <div align="center">
@@ -153,7 +159,7 @@ In the spring of 2024, my time as a student at Texas A&M was coming to an end. B
 
 The semester I spent working on RecipeRocal has been an incredible learning experience for what software engineering is like in industry. I served as my team's CI/CD lead to develop many different automations that kept the team working efficiently. It was here where I learned about the value of linting, unit testing, automated workflows, and many other DevOps practices.
 
-### Skills used
+### Hard skills used
 - [React Native](https://reactnative.dev/)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [Android Development](https://developer.android.com/)
@@ -161,3 +167,12 @@ The semester I spent working on RecipeRocal has been an incredible learning expe
 - [Google Cloud Platform](https://cloud.google.com/)
 - [GitHub Actions](https://docs.github.com/en/actions)
 - [Jira](https://www.atlassian.com/software/jira)
+
+### Soft skills used
+- Agile methodology
+- Scrum
+- Communication
+- Teamwork
+- Source control
+- Automation
+- Unit testing
