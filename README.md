@@ -182,7 +182,7 @@ The semester I spent working on RecipeRocal has been an incredible learning expe
 <img src="https://github.com/evanwherchek/resutailor/assets/50429973/be95201c-4b14-4cf8-8dc4-286d61a7e35c" width="85%">
 </div>
 
-Having graduated with my bachelor's degree, I moved back home to begin my job search. As a software engineer, I believe it's important to always have a good project to work on so you don't fall out of practice; a way to keep your skills sharp. I wanted to delve deeper into web development and I'm really interested in simple web tools so I created ResuTailor.
+Having graduated with my bachelor's degree, I moved back home to continue my job search. As a software engineer, I believe it's important to always have a good project to work on so you don't fall out of practice; a way to keep your skills sharp. I wanted to delve deeper into web development and I'm really interested in simple web tools so I created ResuTailor.
 
 ResuTailor is a self hosted React app that automates the tedious process of adjusting your resume for every job application. Whenever you apply for jobs, you have to make sure keywords appear exactly as they do on the job description so your application will pass the company's ATS. Once the application is set up, all you have to do is enter the URL of the job you're applying for and select the skills you have. Then ResuTailor puts together a custom version of your resume with those skills.
 
