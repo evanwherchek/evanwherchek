@@ -26,7 +26,7 @@ I could not be more excited to begin my career and I'm very entheusiastic to bui
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23%0A-000?&logo=c-sharp&logoColor=239120)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
@@ -39,8 +39,8 @@ I could not be more excited to begin my career and I'm very entheusiastic to bui
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud&logoColor=4285F4)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=0089D6)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&logoColor=0089D6)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
@@ -54,7 +54,7 @@ I could not be more excited to begin my career and I'm very entheusiastic to bui
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=Postgresql&logoColor=336791)
 
 ### Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android-Studio&logoColor=3DDC84)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira&logoColor=0052CC)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)
