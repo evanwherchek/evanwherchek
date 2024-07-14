@@ -187,7 +187,7 @@ Having graduated with my bachelor's degree, I moved back home to continue my job
 
 ResuTailor is a self hosted React app that automates the tedious process of adjusting your resume for every job application. Whenever you apply for jobs, you have to make sure keywords appear exactly as they do on the job description so your application will pass the company's ATS. Once the application is set up, all you have to do is enter the URL of the job you're applying for and select the skills you have. Then ResuTailor puts together a custom version of your resume with those skills.
 
-While it may not be the biggest, ResuTailor reflects how much I have grown as a software engineer through my efforts for best practices. In this project, I have used code style enforcement, automatic unit tests, containerization, and more to build an extremely sophisticated application.
+While it may not be the biggest, ResuTailor reflects how much I have grown as a software engineer through my efforts for best practices. In this project, I have used code style enforcement, automatic unit tests, containerization, and more to build a sophisticated application.
 
 ### Technologies
 - [React](https://react.dev/)
