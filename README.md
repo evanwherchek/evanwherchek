@@ -40,7 +40,7 @@ I could not be more excited to begin my career and I'm very entheusiastic to bui
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud&logoColor=4285F4)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&logoColor=0089D6)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=azure&logoColor=0089D6)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
