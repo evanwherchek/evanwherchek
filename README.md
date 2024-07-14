@@ -10,7 +10,7 @@ I have been lucky enough to delve into a diverse range of subjects, from the int
 
 What truly fuels my passion for software engineering is the endless opportunity for innovation it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
 
-I'm grateful to have learned from some of the best computer scientists and business leaders during my time as an undergraduate. And now I am seeking my first role as a software engineer as a graduate where I can apply my skills in a fast-paced, innovative environment. I'm interested in several parts of the software development lifecycle including **frontend, full-stack, cloud, and CI/CD** so I can be happy in a lot of different places.
+I'm grateful to have learned from some of the best engineers and business leaders during my time as an undergraduate. And now I am seeking my first role as a software engineer as a graduate where I can apply my skills in a fast-paced, innovative environment. I'm interested in several parts of the software development lifecycle including **frontend, full-stack, cloud, and CI/CD** so I can be happy in a lot of different places.
 
 I could not be more excited to begin my career and I'm very entheusiastic to build excellent user experiences!
 
