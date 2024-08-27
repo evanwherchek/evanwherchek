@@ -4,13 +4,13 @@
 
 Hello!
 
-My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Software Entrepreneurship. My academic journey is deeply rooted in a profound love for software engineering, which forms the backbone of my computer science program.
+My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Software Entrepreneurship. My professional journey is deeply rooted in a profound love for software engineering, which forms the backbone of the work I do.
 
-I have been lucky enough to delve into a diverse range of subjects, from the intricacies of coding to the nuances of business leadership, enterprise fundamentals, and product design. This unique blend of studies is designed to equip me with the skills required to thrive in various industry environments, from dynamic startups to large corporate settings.
+I have been lucky enough to delve into a diverse range of subjects, from the intricacies of coding to the nuances of business leadership, enterprise fundamentals, and product design. This unique blend of studies is designed to equip me with the skills required to thrive in various industry environments, from growing startups to large corporate settings.
 
 What truly fuels my passion for software engineering is the endless opportunity for innovation it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
 
-I'm grateful to have learned from some of the best engineers and business leaders during my time as an undergraduate. And now I am seeking my first role as a software engineer as a graduate where I can apply my skills in a fast-paced, innovative environment. I'm interested in several parts of the software development lifecycle including **frontend, full-stack, cloud, and CI/CD** so I can be happy in a lot of different places.
+I'm grateful to have learned from some of the best engineers and business leaders during my time as an undergraduate. And now I am seeking my first role as a software engineer where I can apply my skills in a fast-paced, innovative environment. I'm interested in several parts of the software development lifecycle including frontend, full-stack, cloud, and CI/CD.
 
 I could not be more excited to begin my career and I'm very entheusiastic to build excellent user experiences!
 
