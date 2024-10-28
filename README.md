@@ -61,7 +61,7 @@ I could not be more excited to begin my career and I'm very entheusiastic to bui
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=FFFFFF)
 
 # Major Projects
-These are the major personal projects I have worked on over the past few years in chronological order along with my thoughts on them. If you are a recruiter and want to see the actual code for them, the repositories are available upon request.
+These are the major personal projects I have worked on over the past few years in chronological order along with my thoughts on them.
 
 ## GeoCash: 2018 - 2020
 <div align="center">
