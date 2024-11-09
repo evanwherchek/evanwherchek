@@ -8,11 +8,9 @@ My name is Evan and I'm a recent graduate of Texas A&M University. I earned my B
 
 I have been lucky enough to delve into a diverse range of subjects, from the intricacies of coding to the nuances of business leadership, enterprise fundamentals, and product design. This unique blend of studies is designed to equip me with the skills required to thrive in various industry environments, from growing startups to large corporate settings.
 
-What truly fuels my passion for software engineering is the endless opportunity for innovation it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
+What truly fuels my passion for software engineering is the endless opportunity for learning it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
 
 I'm grateful to have learned from some of the best engineers and business leaders during my time as an undergraduate. And now I am applying my skills to the real world. I'm interested in several parts of the software development lifecycle including frontend, full-stack, cloud, and CI/CD.
-
-I could not be more excited to begin my career and I'm very entheusiastic to build excellent user experiences!
 
 "The best way to predict the future is to invent it." - Alan Kay
 
