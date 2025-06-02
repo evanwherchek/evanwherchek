@@ -4,7 +4,7 @@
 
 Hello!
 
-My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Engineering Entrepreneurship. Currently, I develop software solutions for the rural energy and broadband industries through writing code for billing solutions.
+My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Engineering Entrepreneurship. Currently, I develop software solutions for the rural energy and broadband industries through writing code for the generation of accurate and intuitive PDF bills.
 
 ### Languages
 
