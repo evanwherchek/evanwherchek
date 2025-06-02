@@ -4,15 +4,7 @@
 
 Hello!
 
-My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Software Entrepreneurship. My professional journey is deeply rooted in a profound love for software engineering, which forms the backbone of the work I do.
-
-I have been lucky enough to delve into a diverse range of subjects, from the intricacies of coding to the nuances of business leadership, enterprise fundamentals, and product design. This unique blend of studies is designed to equip me with the skills required to thrive in various industry environments, from growing startups to large corporate settings.
-
-What truly fuels my passion for software engineering is the endless opportunity for learning it offers. The thrill of solving complex problems and seeing my code come to life is unparalleled. I believe that software engineering is not just a discipline, but a craft that requires continuous learning and refinement.
-
-I'm grateful to have learned from some of the best engineers and business leaders during my time as an undergraduate. And now I am applying my skills to the real world. I'm interested in several parts of the software development lifecycle including frontend, full-stack, cloud, and CI/CD. The road ahead is exciting!
-
-"The best way to predict the future is to invent it." - Alan Kay
+My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Engineering Entrepreneurship. Currently, I develop software solutions for the rural energy and broadband industries through writing code for billing solutions.
 
 ### Languages
 
@@ -24,11 +16,8 @@ I'm grateful to have learned from some of the best engineers and business leader
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-C%23%0A-000?&logo=c-sharp&logoColor=239120)
-![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
-![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00ADD8)
 ![x86](https://img.shields.io/badge/-x86-000?&logo=intel&logoColor=0071C5)
 ![arm](https://img.shields.io/badge/-arm-000?&logo=arm&logoColor=00979D)
 
@@ -42,12 +31,8 @@ I'm grateful to have learned from some of the best engineers and business leader
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css&logoColor=38B2AC)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react&logoColor=61DAFB)
-![Stripe API](https://img.shields.io/badge/-Stripe%20API-000?&logo=Stripe&logoColor=008CDD)
 ![Java Spring](https://img.shields.io/badge/-JavaSpring-000?&logo=Spring&logoColor=6DB33F)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=.net&logoColor=512BD4)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=Postgresql&logoColor=336791)
 
