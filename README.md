@@ -26,14 +26,9 @@ My name is Evan and I'm a recent graduate of Texas A&M University. I earned my B
 # Major Projects
 
 ## GeoCash/SearchX: 2018 - 2022
-<div>
-  <div align="center">
-  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/aa2c3d4e-f864-4790-ac46-738c1277d3c2" width="200">
-  </div>
-
-  <div align="center">
-  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/81930479-d990-4a5e-9248-bad4655f3471" width="200">
-  </div>
+<div align="center">
+  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/aa2c3d4e-f864-4790-ac46-738c1277d3c2" width="200" style="margin: 0 10px;">
+  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/81930479-d990-4a5e-9248-bad4655f3471" width="200" style="margin: 0 10px;">
 </div>
 
 As my first large software engineering project, GeoCash was intended to be a scavenger hunt where users could earn money by locating different geographical points using a series of hints. I would later revisit GeoCash and rebrand it as SearchX by removing the monetary aspects and switching to a freemium model.
