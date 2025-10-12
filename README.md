@@ -2,7 +2,7 @@ Hello!
 
 My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Engineering Entrepreneurship. Currently, I develop software solutions for the rural energy and broadband industries through writing code for the generation of accurate and intuitive PDF bills.
 
-### Languages and Technologies
+## Languages and Technologies
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
