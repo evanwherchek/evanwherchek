@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2794f821-373b-4c0a-b3ee-f94b5b37520e" width="85%">
+</div>
+
 Hello!
 
 My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Engineering Entrepreneurship. Currently, I develop software solutions for the rural energy and broadband industries through writing code for the generation of accurate and intuitive PDF bills.
