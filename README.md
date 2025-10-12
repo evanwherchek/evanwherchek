@@ -4,7 +4,9 @@
 
 Hello!
 
-My name is Evan and I'm a recent graduate of Texas A&M University. I earned my Bachelor of Arts in Computing with a concentration area of Engineering Entrepreneurship. Currently, I develop software solutions for the rural energy and broadband industries through writing code for the generation of accurate and intuitive PDF bills.
+My name is Evan and I am a recent computer science graduate of Texas A&M University. Currently, I am based in St. Louis at National Information Solutions Cooperative building software to power America's rural utility and telecom industries.
+
+I have a passion for architecting and creating large projects that improve the lives of my users. I am always exploring new technologies and ideas to figure out how I can adopt them to create something incredible. And the best part is that I'm just getting started. Every day, I wake up ready to continue building. The future is exciting!
 
 ## Languages and Technologies
 
