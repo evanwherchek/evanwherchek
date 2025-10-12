@@ -23,6 +23,15 @@ My name is Evan and I'm a recent graduate of Texas A&M University. I earned my B
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-JavaSpring-000?&logo=Spring&logoColor=6DB33F)
 
+## Cerficiations
+<div align="center">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" style="margin: 0 10px;">
+  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" style="margin: 0 10px;">
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" style="margin: 0 10px;">
+  <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150" style="margin: 0 10px;">
+  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="150" style="margin: 0 10px;">
+</div>
+
 # Major Projects
 
 ## GeoCash/SearchX: 2018 - 2022
