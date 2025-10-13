@@ -40,15 +40,23 @@ I have a passion for architecting and creating large projects that improve the l
 
 # Major Projects
 
-## GeoCash/SearchX: 2018 - 2022
+## ResuTailor: 2024
 <div align="center">
-  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/aa2c3d4e-f864-4790-ac46-738c1277d3c2" width="200" style="margin: 0 10px;">
-  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/81930479-d990-4a5e-9248-bad4655f3471" width="200" style="margin: 0 10px;">
+<img src="https://github.com/evanwherchek/resutailor/assets/50429973/be95201c-4b14-4cf8-8dc4-286d61a7e35c" width="85%">
 </div>
 
-As my first large software engineering project, GeoCash was intended to be a scavenger hunt where users could earn money by locating different geographical points using a series of hints. I would later revisit GeoCash and rebrand it as SearchX by removing the monetary aspects and switching to a freemium model.
+Resutailor is a self-hosted web application that makes it easy to optimize resumes for ATS. Users can provide a link to any job posting and select the skills from that posting that they have. Resutailor will then automatically insert those skills into the user's resume as they appear in the job posting.
 
-Tech Stack: Java, SQL, Flutter, Stripe API, Google Maps SDK, AWS, Firebase
+Tech Stack: TypeScript, Python, React, OpenAI API, GitHub Actions, Docker, Google Cloud
+
+## RecipeRocal: 2024
+<div align="center">
+<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/f07a67f5-0393-4981-83bf-3b8577858dec" width="200">
+</div>
+
+For my senior capstone project, my team built RecipeRocal - an app that gamifies nutrition by challenging users to reach goals. I served as my team's CI/CD lead and developed many different automations that kept the team working efficiently.
+
+Tech Stack: JavaScript, React Native, Firebase, GitHub Actions
 
 ## Eagle: 2020 - 2021
 <div align="center">
@@ -68,20 +76,12 @@ Coatails was a networking app designed with a focus on making in-person connecti
 
 Tech Stack: Flutter, Node.js, Firebase
 
-## RecipeRocal: 2024
+## GeoCash/SearchX: 2018 - 2022
 <div align="center">
-<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/f07a67f5-0393-4981-83bf-3b8577858dec" width="200">
+  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/aa2c3d4e-f864-4790-ac46-738c1277d3c2" width="200" style="margin: 0 10px;">
+  <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/81930479-d990-4a5e-9248-bad4655f3471" width="200" style="margin: 0 10px;">
 </div>
 
-For my senior capstone project, my team built RecipeRocal - an app that gamifies nutrition by challenging users to reach goals. I served as my team's CI/CD lead and developed many different automations that kept the team working efficiently.
+As my first large software engineering project, GeoCash was intended to be a scavenger hunt where users could earn money by locating different geographical points using a series of hints. I would later revisit GeoCash and rebrand it as SearchX by removing the monetary aspects and switching to a freemium model.
 
-Tech Stack: JavaScript, React Native, Firebase, GitHub Actions
-
-## ResuTailor: 2024
-<div align="center">
-<img src="https://github.com/evanwherchek/resutailor/assets/50429973/be95201c-4b14-4cf8-8dc4-286d61a7e35c" width="85%">
-</div>
-
-Resutailor is a self-hosted web application that makes it easy to optimize resumes for ATS. Users can provide a link to any job posting and select the skills from that posting that they have. Resutailor will then automatically insert those skills into the user's resume as they appear in the job posting.
-
-Tech Stack: TypeScript, Python, React, OpenAI API, GitHub Actions, Docker, Google Cloud
+Tech Stack: Java, SQL, Flutter, Stripe API, Google Maps SDK, AWS, Firebase
