@@ -58,15 +58,6 @@ For my senior capstone project, my team built RecipeRocal - an app that gamifies
 
 Tech Stack: JavaScript, React Native, Firebase, GitHub Actions
 
-## Eagle: 2020 - 2021
-<div align="center">
-<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/16a6b3bb-383f-4bb4-9d36-11483781bbc6" width="200">
-</div>
-
-Built around my love for travel, Eagle was an app where users could plan a road trip by typing in their interests and getting a list of things to do along the route. Users could then share their road trips using features implemented with the Snapchat SDK.
-
-Tech Stack: Java, HTML, CSS, JavaScript, Google Maps SDK, Snapchat SDK, Firebase
-
 ## Coatails: 2022 - 2024
 <div align="center">
 <img src="https://github.com/evanwherchek/professional-overview/assets/50429973/02aed719-4118-4ee9-bf6b-bad6ef83805d" width="200">
@@ -75,6 +66,15 @@ Tech Stack: Java, HTML, CSS, JavaScript, Google Maps SDK, Snapchat SDK, Firebase
 Coatails was a networking app designed with a focus on making in-person connections. Users could connect with each other by scanning a QR code and then view a graph to see who their connections know. The aspect of connecting on an "in-person only" basis was intended to promote stronger connections by focusing on people users actually know.
 
 Tech Stack: Flutter, Node.js, Firebase
+
+## Eagle: 2020 - 2021
+<div align="center">
+<img src="https://github.com/evanwherchek/professional-overview/assets/50429973/16a6b3bb-383f-4bb4-9d36-11483781bbc6" width="200">
+</div>
+
+Built around my love for travel, Eagle was an app where users could plan a road trip by typing in their interests and getting a list of things to do along the route. Users could then share their road trips using features implemented with the Snapchat SDK.
+
+Tech Stack: Java, HTML, CSS, JavaScript, Google Maps SDK, Snapchat SDK, Firebase
 
 ## GeoCash/SearchX: 2018 - 2022
 <div align="center">
