@@ -29,7 +29,7 @@ I have a passion for architecting and creating large projects that improve the l
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-JavaSpring-000?&logo=Spring&logoColor=6DB33F)
 
-## Cerficiations
+## Certifications
 <div align="center">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" style="margin: 0 10px;">
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" style="margin: 0 10px;">
