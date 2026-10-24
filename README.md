@@ -27,6 +27,8 @@ I have a passion for architecting and creating large projects that improve the l
 
 ## Certifications
 <div align="center">
+  <img src="https://images.credly.com/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" width="150" style="margin: 0 10px;">
+  <img src="https://images.credly.com/size/340x340/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" width="150" style="margin: 0 10px;">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" style="margin: 0 10px;">
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" style="margin: 0 10px;">
   <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="150" style="margin: 0 10px;">
