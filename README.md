@@ -24,6 +24,7 @@ I have a passion for architecting and creating large projects that improve the l
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-JavaSpring-000?&logo=Spring&logoColor=6DB33F)
+![Claude](https://img.shields.io/badge/-Claude-000?&logo=claude&logoColor=D97757)
 
 ## Certifications
 <div align="center">
